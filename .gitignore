@@ -1,0 +1,7 @@
+access_details.txt
+document.txt
+credentials.py
+p2venv/*
+.vscode/
+__pycache__/
+*.pyc
